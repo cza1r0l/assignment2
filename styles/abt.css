@@ -1,0 +1,40 @@
+body {
+  background-size: cover;
+  color: #f8f9fa;
+}
+.navbar {
+  background-color: #333;
+}
+.navbar-brand {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 1.8rem;
+  color: #eaeaea;
+}
+.nav-link {
+  color: #c0c0c0 !important;
+}
+.section-title {
+  color: #ff4444;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 2rem;
+}
+.footer {
+  background-color: #222;
+  padding: 2rem;
+  color: #bbb;
+  text-align: center;
+}
+.rounded-image {
+  width: 435px;
+  height: 435px; 
+  border-radius: 15px; 
+  margin-top: 20px; 
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+.text {
+  font-family: 'Courier New', Courier, monospace; 
+  text-align: center; 
+  font-size: 1.5rem; 
+  color: #000; 
+}
+

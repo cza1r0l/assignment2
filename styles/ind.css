@@ -1,0 +1,46 @@
+body {
+    background-size: cover;
+    color: #f8f9fa;
+  }
+  .navbar {
+    background-color: #333;
+  }
+  .navbar-brand {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1.8rem;
+    color: #eaeaea;
+  }
+  .nav-link {
+    color: #c0c0c0 !important;
+  }
+  .intro-text {
+    font-family: 'Impact', sans-serif;
+    font-size: 2.5rem;
+    color: #e0e0e0;
+  }
+  .footer {
+    background-color: #222;
+    padding: 2rem;
+    color: #bbb;
+    text-align: center;
+  }
+  .btn-custom {
+    background-color: #ff4444;
+    color: #fff;
+  }
+  .btn-custom:hover {
+    background-color: #cc0000;
+  }
+  .text {
+    font-family: 'Courier New', Courier, monospace; 
+    text-align: center; 
+    font-size: 1.5rem; 
+    color: #000; 
+  }
+  .rounded-circle {
+    border-radius: 50%; 
+    object-fit: cover; 
+    width: 500px; 
+    height: 500px; 
+  }
+    
